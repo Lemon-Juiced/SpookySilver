@@ -1,0 +1,27 @@
+{
+  "itemGroup.spooky_silver.tab": "Spooky Silver",
+
+  "item.spooky_silver.silver_ingot": "Silver Ingot",
+  "item.spooky_silver.silver_nugget": "Silver Nugget",
+  "item.spooky_silver.raw_silver": "Raw Silver",
+  "item.spooky_silver.silver_smithing_template": "Silver Smithing Template",
+
+  "item.spooky_silver.silvered_wooden_sword": "Silvered Wooden Sword",
+  "item.spooky_silver.silvered_stone_sword": "Silvered Stone Sword",
+  "item.spooky_silver.silvered_iron_sword": "Silvered Iron Sword",
+  "item.spooky_silver.silvered_diamond_sword": "Silvered Diamond Sword",
+  "item.spooky_silver.silvered_golden_sword": "Silvered Golden Sword",
+  "item.spooky_silver.silvered_netherite_sword": "Silvered Netherite Sword",
+
+  "tooltip.spooky_silver.silvered_sword": "Silvered: Deals extra damage to undead mobs.",
+  "tooltip.spooky_silver.applies_to": "All Swords",
+  "tooltip.spooky_silver.ingredients": "Silver Ingot",
+  "tooltip.spooky_silver.upgrade_description": "Silver Upgrade",
+  "tooltip.spooky_silver.base_slot_description": "Base Slot Description",
+  "tooltip.spooky_silver.additions_slot_description": "Additions Slot Description",
+
+  "block.spooky_silver.silver_block": "Block of Silver",
+  "block.spooky_silver.raw_silver_block": "Block of Raw Silver",
+  "block.spooky_silver.silver_ore": "Silver Ore",
+  "block.spooky_silver.deepslate_silver_ore": "Deepslate Silver Ore"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#N#",
+    "#I#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:deepslate"
+    },
+    "N": {
+      "item": "spooky_silver:silver_nugget"
+    },
+    "I": {
+      "item": "spooky_silver:silver_ingot"
+    }
+  },
+  "result": {
+    "id": "spooky_silver:silver_smithing_template",
+    "count": 1
+  }
+}

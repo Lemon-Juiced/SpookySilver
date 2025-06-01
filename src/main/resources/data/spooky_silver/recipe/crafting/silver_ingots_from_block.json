@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/silver"
+    }
+  ],
+  "result": {
+    "id": "spooky_silver:silver_ingot",
+    "count": 9
+  }
+}

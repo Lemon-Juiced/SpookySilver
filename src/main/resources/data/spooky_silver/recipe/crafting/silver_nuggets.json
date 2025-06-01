@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:ingots/silver"
+    }
+  ],
+  "result": {
+    "id": "spooky_silver:silver_nugget",
+    "count": 9
+  }
+}

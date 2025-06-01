@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "spooky_silver:item/silvered_netherite_sword"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "spooky_silver:silver_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "addition": {
+    "tag": "c:ingots/silver"
+  },
+  "result": {
+    "id": "spooky_silver:silvered_iron_sword"
+  }
+}
