@@ -1,6 +1,7 @@
-# Spooky Structures
+# Spooky Silver
 Originally part of [Spooky Structures](https://github.com/Lemon-Juiced/SpookyStructures).  
-Spooky Structures adds spooky structures to Minecraft for SpookyJam 2024.
+Spooky Structures adds spooky structures to Minecraft for SpookyJam 2024.  
+This was originally also submitted as part of Spooky Structures, but was ultimately split for the health of both projects.
 
 ## Features
 - **Items**:
